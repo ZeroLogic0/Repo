@@ -1,19 +1,3 @@
-// ==UserScript==
-// @name         Diep.io AIMBOT - Diepio Hacks - Best Diep Cheat 2019
-// @description  Diepio Mods Features: Color Changer, Colorful Items, Aimbot, Fire Bot, Auto Respan, FPS, Adblock
-// @namespace    iomods.org
-// @author       iomods.org
-// @version      1.3
-// @require      https://greasyfork.org/scripts/27023-jscolor/code/JSColor.js?version=173802
-// @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @require      https://code.jquery.com/jquery-3.3.1.min.js
-// @match        *://diep.io/*
-// @match        *iogames.space/*
-// @match        *titotu.io/*
-// @match        *io-games.io/*
-// ==/UserScript==
-
-
 setTimeout(function() {
 //tanitim belgeseli
 var colorize,lnk,text,ministyler
